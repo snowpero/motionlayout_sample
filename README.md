@@ -2,8 +2,8 @@
 MotionLayout 구현해본 Sample 프로젝트 입니다.
 
 #### 스크린샷
-!(./collapse.png) 
-!(./expand.png)
+<img src="collapse.png" width="240px"></img>
+<img src="expand.png" width="240px"></img>
 
 
 #### 참고자료
