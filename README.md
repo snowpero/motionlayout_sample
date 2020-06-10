@@ -1,4 +1,10 @@
 # MotionLayout 관련 Sample
+MotionLayout 구현해본 Sample 프로젝트 입니다.
+
+#### 스크린샷
+!(./collapse.png) 
+!(./expand.png)
+
 
 #### 참고자료
 
